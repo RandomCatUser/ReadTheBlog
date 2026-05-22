@@ -1,0 +1,14 @@
+# Hugo build artifacts
+dist/
+public/
+resources/_gen/
+.hugo_build.lock
+
+# OS files
+.DS_Store
+
+# Node artifacts
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
