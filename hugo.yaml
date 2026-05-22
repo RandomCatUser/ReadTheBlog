@@ -1,0 +1,4 @@
+baseURL: https://example.org/
+locale: en-us
+title: Read The Blog
+theme: digio-theme
